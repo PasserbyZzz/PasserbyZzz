@@ -5,7 +5,7 @@ I work on robot learning and reinforcement learning, especially humanoid locomot
 For research discussions or collaborations, feel free to contact me at passerby_zzz(at)sjtu.edu.cn.
 
 <div align="center">
-  <a href="https://www.sjtu.edu.cn/" title="Shanghai Jiao Tong University"><img src="assets/logos/sjtu_h.png" height="64" alt="SJTU"></a> &nbsp;&nbsp;
-  <img src="assets/logos/sii_h.png" height="64" alt="Shanghai Innovation Institute"> &nbsp;&nbsp;
+  <a href="https://www.sjtu.edu.cn/" title="Shanghai Jiao Tong University"><img src="assets/logos/sjtu_h.png" height="64" alt="SJTU"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logos/sii_h.png" height="64" alt="Shanghai Innovation Institute"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gaoyue.sjtu.edu.cn/" title="RL2 Lab"><img src="assets/logos/rl2_h.png" height="64" alt="RL2 Lab"></a>
 </div>
