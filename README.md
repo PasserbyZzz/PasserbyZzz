@@ -4,10 +4,8 @@ An incoming CS Ph.D. student at [Shanghai Jiao Tong University](https://www.sjtu
 I work on robot learning and reinforcement learning, especially humanoid locomotion and whole-body control.
 For research discussions or collaborations, feel free to contact me at passerby_zzz(at)sjtu.edu.cn.
 
-<table border="0" width="100%">
-  <tr>
-    <td width="33%" align="center"><a href="https://www.sjtu.edu.cn/" title="Shanghai Jiao Tong University"><img src="assets/SJTU_red.png?v=2" width="64" alt="SJTU"></a></td>
-    <td width="33%" align="center"><img src="assets/SII.png?v=2" width="64" alt="Shanghai Innovation Institute"></td>
-    <td width="33%" align="center"><a href="https://gaoyue.sjtu.edu.cn/" title="RL2 Lab"><img src="assets/RL2.png?v=2" width="64" alt="RL2 Lab"></a></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.sjtu.edu.cn/" title="Shanghai Jiao Tong University"><img src="assets/SJTU_red.png?v=3" height="64" alt="SJTU"></a>
+  <img src="assets/SII.png?v=3" height="64" alt="Shanghai Innovation Institute">
+  <a href="https://gaoyue.sjtu.edu.cn/" title="RL2 Lab"><img src="assets/RL2.png?v=3" height="64" alt="RL2 Lab"></a>
+</div>
